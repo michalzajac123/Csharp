@@ -1,0 +1,7 @@
+D:\szkola\c#\zMarem\09.13\wlasnaStruktura\bin\Debug\wlasnaStruktura.exe.config
+D:\szkola\c#\zMarem\09.13\wlasnaStruktura\bin\Debug\wlasnaStruktura.exe
+D:\szkola\c#\zMarem\09.13\wlasnaStruktura\bin\Debug\wlasnaStruktura.pdb
+D:\szkola\c#\zMarem\09.13\wlasnaStruktura\obj\Debug\wlasnaStruktura.csproj.AssemblyReference.cache
+D:\szkola\c#\zMarem\09.13\wlasnaStruktura\obj\Debug\wlasnaStruktura.csproj.CoreCompileInputs.cache
+D:\szkola\c#\zMarem\09.13\wlasnaStruktura\obj\Debug\wlasnaStruktura.exe
+D:\szkola\c#\zMarem\09.13\wlasnaStruktura\obj\Debug\wlasnaStruktura.pdb

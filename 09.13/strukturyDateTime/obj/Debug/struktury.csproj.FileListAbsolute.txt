@@ -1,0 +1,7 @@
+D:\szkola\c#\zMarem\09.13\struktury\obj\Debug\struktury.csproj.AssemblyReference.cache
+D:\szkola\c#\zMarem\09.13\struktury\obj\Debug\struktury.csproj.CoreCompileInputs.cache
+D:\szkola\c#\zMarem\09.13\struktury\bin\Debug\struktury.exe.config
+D:\szkola\c#\zMarem\09.13\struktury\bin\Debug\struktury.exe
+D:\szkola\c#\zMarem\09.13\struktury\bin\Debug\struktury.pdb
+D:\szkola\c#\zMarem\09.13\struktury\obj\Debug\struktury.exe
+D:\szkola\c#\zMarem\09.13\struktury\obj\Debug\struktury.pdb

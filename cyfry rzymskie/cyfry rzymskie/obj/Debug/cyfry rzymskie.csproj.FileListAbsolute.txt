@@ -1,0 +1,7 @@
+C:\Users\Programowanie\Desktop\Michał Zając\csharp\cyfry rzymskie\cyfry rzymskie\bin\Debug\cyfry rzymskie.exe.config
+C:\Users\Programowanie\Desktop\Michał Zając\csharp\cyfry rzymskie\cyfry rzymskie\bin\Debug\cyfry rzymskie.exe
+C:\Users\Programowanie\Desktop\Michał Zając\csharp\cyfry rzymskie\cyfry rzymskie\bin\Debug\cyfry rzymskie.pdb
+C:\Users\Programowanie\Desktop\Michał Zając\csharp\cyfry rzymskie\cyfry rzymskie\obj\Debug\cyfry rzymskie.csproj.AssemblyReference.cache
+C:\Users\Programowanie\Desktop\Michał Zając\csharp\cyfry rzymskie\cyfry rzymskie\obj\Debug\cyfry rzymskie.csproj.CoreCompileInputs.cache
+C:\Users\Programowanie\Desktop\Michał Zając\csharp\cyfry rzymskie\cyfry rzymskie\obj\Debug\cyfry rzymskie.exe
+C:\Users\Programowanie\Desktop\Michał Zając\csharp\cyfry rzymskie\cyfry rzymskie\obj\Debug\cyfry rzymskie.pdb
