@@ -1,0 +1,7 @@
+F:\szkola\c#\zMarem\09.20\klasy\bin\Debug\klasy.exe.config
+F:\szkola\c#\zMarem\09.20\klasy\bin\Debug\klasy.exe
+F:\szkola\c#\zMarem\09.20\klasy\bin\Debug\klasy.pdb
+F:\szkola\c#\zMarem\09.20\klasy\obj\Debug\klasy.csproj.AssemblyReference.cache
+F:\szkola\c#\zMarem\09.20\klasy\obj\Debug\klasy.csproj.CoreCompileInputs.cache
+F:\szkola\c#\zMarem\09.20\klasy\obj\Debug\klasy.exe
+F:\szkola\c#\zMarem\09.20\klasy\obj\Debug\klasy.pdb

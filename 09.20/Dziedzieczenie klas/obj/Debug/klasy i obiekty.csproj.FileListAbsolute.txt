@@ -1,0 +1,14 @@
+C:\Users\Programowanie\Documents\Mateusz Ogonek\aplikacje desktopowe i mobilne\20.09\Dziedzieczenie klas\bin\Debug\klasy i obiekty.exe.config
+C:\Users\Programowanie\Documents\Mateusz Ogonek\aplikacje desktopowe i mobilne\20.09\Dziedzieczenie klas\bin\Debug\klasy i obiekty.exe
+C:\Users\Programowanie\Documents\Mateusz Ogonek\aplikacje desktopowe i mobilne\20.09\Dziedzieczenie klas\bin\Debug\klasy i obiekty.pdb
+C:\Users\Programowanie\Documents\Mateusz Ogonek\aplikacje desktopowe i mobilne\20.09\Dziedzieczenie klas\obj\Debug\klasy i obiekty.csproj.AssemblyReference.cache
+C:\Users\Programowanie\Documents\Mateusz Ogonek\aplikacje desktopowe i mobilne\20.09\Dziedzieczenie klas\obj\Debug\klasy i obiekty.csproj.CoreCompileInputs.cache
+C:\Users\Programowanie\Documents\Mateusz Ogonek\aplikacje desktopowe i mobilne\20.09\Dziedzieczenie klas\obj\Debug\klasy i obiekty.exe
+C:\Users\Programowanie\Documents\Mateusz Ogonek\aplikacje desktopowe i mobilne\20.09\Dziedzieczenie klas\obj\Debug\klasy i obiekty.pdb
+F:\szkola\c#\zMarem\09.20\Dziedzieczenie klas\bin\Debug\klasy i obiekty.exe.config
+F:\szkola\c#\zMarem\09.20\Dziedzieczenie klas\bin\Debug\klasy i obiekty.exe
+F:\szkola\c#\zMarem\09.20\Dziedzieczenie klas\bin\Debug\klasy i obiekty.pdb
+F:\szkola\c#\zMarem\09.20\Dziedzieczenie klas\obj\Debug\klasy i obiekty.csproj.AssemblyReference.cache
+F:\szkola\c#\zMarem\09.20\Dziedzieczenie klas\obj\Debug\klasy i obiekty.csproj.CoreCompileInputs.cache
+F:\szkola\c#\zMarem\09.20\Dziedzieczenie klas\obj\Debug\klasy i obiekty.exe
+F:\szkola\c#\zMarem\09.20\Dziedzieczenie klas\obj\Debug\klasy i obiekty.pdb

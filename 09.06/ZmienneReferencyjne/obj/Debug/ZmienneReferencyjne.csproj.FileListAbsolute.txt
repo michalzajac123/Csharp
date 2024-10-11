@@ -1,0 +1,7 @@
+D:\szkola\c#\09.06\ZmienneReferencyjne\bin\Debug\ZmienneReferencyjne.exe.config
+D:\szkola\c#\09.06\ZmienneReferencyjne\bin\Debug\ZmienneReferencyjne.exe
+D:\szkola\c#\09.06\ZmienneReferencyjne\bin\Debug\ZmienneReferencyjne.pdb
+D:\szkola\c#\09.06\ZmienneReferencyjne\obj\Debug\ZmienneReferencyjne.csproj.AssemblyReference.cache
+D:\szkola\c#\09.06\ZmienneReferencyjne\obj\Debug\ZmienneReferencyjne.csproj.CoreCompileInputs.cache
+D:\szkola\c#\09.06\ZmienneReferencyjne\obj\Debug\ZmienneReferencyjne.exe
+D:\szkola\c#\09.06\ZmienneReferencyjne\obj\Debug\ZmienneReferencyjne.pdb

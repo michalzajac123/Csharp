@@ -1,0 +1,7 @@
+F:\szkola\c#\zMarem\09.20\WirtualneMetody\bin\Debug\WirtualneMetody.exe.config
+F:\szkola\c#\zMarem\09.20\WirtualneMetody\bin\Debug\WirtualneMetody.exe
+F:\szkola\c#\zMarem\09.20\WirtualneMetody\bin\Debug\WirtualneMetody.pdb
+F:\szkola\c#\zMarem\09.20\WirtualneMetody\obj\Debug\WirtualneMetody.csproj.AssemblyReference.cache
+F:\szkola\c#\zMarem\09.20\WirtualneMetody\obj\Debug\WirtualneMetody.csproj.CoreCompileInputs.cache
+F:\szkola\c#\zMarem\09.20\WirtualneMetody\obj\Debug\WirtualneMetody.exe
+F:\szkola\c#\zMarem\09.20\WirtualneMetody\obj\Debug\WirtualneMetody.pdb
