@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Programowanie\\Desktop\\Micha\u0142 Zaj\u0105c\\csharp\\Klasy abstracyjne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7775489-B8BD-4236-9433-E9F168021351}|Klasy abstracyjne\\Klasy abstracyjne.csproj|c:\\users\\programowanie\\desktop\\micha\u0142 zaj\u0105c\\csharp\\klasy abstracyjne\\klasy abstracyjne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7775489-B8BD-4236-9433-E9F168021351}|Klasy abstracyjne\\Klasy abstracyjne.csproj|solutionrelative:klasy abstracyjne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Programowanie\\Desktop\\Micha\u0142 Zaj\u0105c\\csharp\\Klasy abstracyjne\\Klasy abstracyjne\\Program.cs",
+              "RelativeDocumentMoniker": "Klasy abstracyjne\\Program.cs",
+              "ToolTip": "C:\\Users\\Programowanie\\Desktop\\Micha\u0142 Zaj\u0105c\\csharp\\Klasy abstracyjne\\Klasy abstracyjne\\Program.cs*",
+              "RelativeToolTip": "Klasy abstracyjne\\Program.cs*",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvzgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:11:12.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

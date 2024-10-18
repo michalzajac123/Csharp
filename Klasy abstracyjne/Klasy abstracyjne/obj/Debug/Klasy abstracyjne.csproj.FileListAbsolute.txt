@@ -1,0 +1,7 @@
+C:\Users\Programowanie\Desktop\Michał Zając\csharp\Klasy abstracyjne\Klasy abstracyjne\obj\Debug\Klasy abstracyjne.csproj.AssemblyReference.cache
+C:\Users\Programowanie\Desktop\Michał Zając\csharp\Klasy abstracyjne\Klasy abstracyjne\obj\Debug\Klasy abstracyjne.csproj.CoreCompileInputs.cache
+C:\Users\Programowanie\Desktop\Michał Zając\csharp\Klasy abstracyjne\Klasy abstracyjne\bin\Debug\Klasy abstracyjne.exe.config
+C:\Users\Programowanie\Desktop\Michał Zając\csharp\Klasy abstracyjne\Klasy abstracyjne\bin\Debug\Klasy abstracyjne.exe
+C:\Users\Programowanie\Desktop\Michał Zając\csharp\Klasy abstracyjne\Klasy abstracyjne\bin\Debug\Klasy abstracyjne.pdb
+C:\Users\Programowanie\Desktop\Michał Zając\csharp\Klasy abstracyjne\Klasy abstracyjne\obj\Debug\Klasy abstracyjne.exe
+C:\Users\Programowanie\Desktop\Michał Zając\csharp\Klasy abstracyjne\Klasy abstracyjne\obj\Debug\Klasy abstracyjne.pdb
