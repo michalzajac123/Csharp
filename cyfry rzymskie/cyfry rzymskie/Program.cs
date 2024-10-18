@@ -25,17 +25,38 @@ namespace cyfry_rzymskie
                     liczbaRzymska += cyfryRzymskie[i];
                     
                 }
-                if (liczba < liczby[i])
+                else
                 {
                     i++;
                 }
             }
             return liczbaRzymska;
         }
+        static int zamienNaDziesietna(string liczbaRzymska)
+        {
+            string[] cyfryRzymskie = { "M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I" };
+            int[] liczby = { 1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1 };
+            int liczba = 0;
+            int i = 0;
+            while (liczbaRzymska != "")
+            {
+                if (liczbaRzymska.Contains(cyfryRzymskie[i]))
+                {
+                    liczba += liczby[i];
+                }
+                else
+                {
+                    liczbaRzymska.Remove(i);
+                    i++;
+                }
+            }
+
+            return liczba;
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Liczba " + 532+" Rzymsko to: "+zamienNaRzymska(542));
-
+            Console.WriteLine(zamienNaDziesietna("MCI"));
 
         }
     }
